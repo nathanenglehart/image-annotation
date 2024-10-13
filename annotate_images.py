@@ -5,7 +5,7 @@ import os
 # Nathan Englehart (Autumn, 2024)
 
 ######################
-####### Config #######
+####### Config ########
 ######################
 
 image_dir = '/media/data3/check_images'
